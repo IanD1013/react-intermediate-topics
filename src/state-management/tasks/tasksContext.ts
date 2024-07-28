@@ -1,5 +1,5 @@
 import { Dispatch } from "react";
-import { Task, TaskAction } from "../reducers/tasksReducer";
+import { Task, TaskAction } from "./TasksProvider";
 import React from "react";
 
 // this is the object that we are gonna transport using React Context
